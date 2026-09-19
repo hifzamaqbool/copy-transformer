@@ -1,4 +1,4 @@
-# Copywriting & Tone Transformer
+# Automated Copywriting & Tone Transformer
 
 A Python script that takes a raw product description and automatically generates professional marketing copy tailored to a specific platform (**LinkedIn**, **Instagram**, or **Email**) and tone, using Google's Gemini API.
 
